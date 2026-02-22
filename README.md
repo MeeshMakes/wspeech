@@ -6,7 +6,7 @@
 
 ---
 
-![wSpeech screenshot](screenshots/preview.png)
+![wSpeech screenshot](screenshots/preview-clean.png)
 
 ---
 
@@ -80,7 +80,7 @@ wspeech/
 ├── launch.sh           # Shell launcher (regenerates icon then runs app)
 ├── wspeech_icon.png    # App icon (auto-generated)
 └── screenshots/
-    └── preview.png     # UI screenshot
+    └── preview-clean.png     # UI screenshot
 ```
 
 ---
